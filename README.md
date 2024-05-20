@@ -9,9 +9,10 @@ npm i
 ```
 options :
 ```shell
-  -h (--host) : host to record   , [default = localhost:3000]
-  -m (--mode) : record | replay  , [default = record]
-  -p (--port) : port for vroxy   , [default = 8888]
+  -h (--host) : host to record               , [default = localhost:3000]
+  -m (--mode) : record | replay              , [default = record]
+  -p (--port) : port for vroxy               , [default = 8888]
+  -d (--directory) : directory for tapes     , [default = records]
 ```
 
 launch in record mode :
